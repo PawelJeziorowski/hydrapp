@@ -4,7 +4,7 @@ const subber = document.querySelector(".sub--js");
 const key = new Date().toISOString().slice(0,10);
 console.log(key);
 
-let glasNumber = localStorage.getItem('key');
+let glasNumber = localStorage.getItem(key);
 console.log(glasNumber);
 
 if (glasNumber === null){
@@ -15,7 +15,7 @@ if (glasNumber === null){
 } else{
     glasNumber = parseInt(glasNumber);
     console.log(glasNumber);
-    number.value = localStorage.getItem(key);
+    number.innerHTML = localStorage.getItem(key);
 }
 
 adder.addEventListener('click', () => {
