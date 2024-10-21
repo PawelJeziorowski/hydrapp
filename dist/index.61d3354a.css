@@ -260,9 +260,9 @@ img, video {
   z-index: 10;
 }
 
-.mx-12 {
-  margin-left: 3rem;
-  margin-right: 3rem;
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .my-16 {
