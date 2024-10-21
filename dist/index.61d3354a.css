@@ -317,6 +317,10 @@ img, video {
   animation: 1s linear infinite spin;
 }
 
+.touch-manipulation {
+  touch-action: manipulation;
+}
+
 .flex-col {
   flex-direction: column;
 }
