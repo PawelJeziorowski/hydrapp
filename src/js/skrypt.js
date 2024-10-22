@@ -1,11 +1,19 @@
 const number = document.querySelector(".numer--js");
 const adder = document.querySelector(".add--js");
 const subber = document.querySelector(".sub--js");
-const key = new Date().toISOString().slice(0,10);
+const key = new Date().toLocaleString().slice(0,10);
 console.log(key);
 
 let glasNumber = localStorage.getItem(key);
 console.log(glasNumber);
+
+setInterval(()=>{
+    if (key!==new Date().toLocaleString().slice(0,10)){
+        key=new Date().toLocaleString().slice(0,10);
+        glasNumber=0;
+        localStorage.setItem(key, glasNumber);
+    }
+},60000);
 
 if (glasNumber === null){
     glasNumber = 0;
@@ -33,6 +41,7 @@ subber.addEventListener('click', () => {
     }
     console.log(localStorage.getItem(key));
 });
+
 
 
 //save.addEventListener('click', () => {
