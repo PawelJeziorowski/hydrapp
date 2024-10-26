@@ -37,9 +37,7 @@ adder.addEventListener('click', () => {
     localStorage.setItem(key, glasNumber)
     number.innerHTML = localStorage.getItem(key);
     console.log(localStorage.getItem(key));
-    jsConfetti.addConfetti({
-        emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
-    })
+    jsConfetti.addConfetti()
 });
 
 subber.addEventListener('click', () => {
