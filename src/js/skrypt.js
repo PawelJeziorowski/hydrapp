@@ -9,9 +9,9 @@ console.log(glasNumber);
 
 setInterval(()=>{
     if (key!==new Date().toLocaleString().slice(0,10)){
-        key=new Date().toLocaleString().slice(0,10);
-        glasNumber=0;
-        localStorage.setItem(key, glasNumber);
+        key=new Date().toLocaleString().slice(0,10)
+        glasNumber=0
+        localStorage.setItem(key, glasNumber)
     }
 },60000);
 
