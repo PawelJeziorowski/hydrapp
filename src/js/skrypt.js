@@ -37,7 +37,9 @@ adder.addEventListener('click', () => {
     localStorage.setItem(key, glasNumber)
     number.innerHTML = localStorage.getItem(key);
     console.log(localStorage.getItem(key));
-    jsConfetti.addConfetti()
+    jsConfetti.addConfetti({
+        emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
+    })
 });
 
 subber.addEventListener('click', () => {
@@ -56,9 +58,7 @@ setInterval(() => {
     hour = time.getHours();
     minute = time.getMinutes();
     if (hour === minute) {
-        jsConfetti.addConfetti({
-            emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
-        });
+        jsConfetti.addConfetti();
     }
 }, 60000);
 
