@@ -1,7 +1,7 @@
 const number = document.querySelector(".numer--js");
 const adder = document.querySelector(".add--js");
 const subber = document.querySelector(".sub--js");
-const key = new Date().toLocaleString().slice(0,10);
+let key = new Date().toLocaleString().slice(0,10);
 console.log(key);
 
 let glasNumber = localStorage.getItem(key);
