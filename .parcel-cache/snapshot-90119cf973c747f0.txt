@@ -1,5 +1,5 @@
 8276
-59D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.html133785056691745248 0
+59D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.html133785058149419125 0
 90D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\minipass\dist\commonjs\index.d.ts133738162288831012 0
 79D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\css-tree\cjs\generator133738160239953333 1
 103D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133738160236155970 0
@@ -43,7 +43,7 @@
 81D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\abortcontroller-polyfill133738160237286143 1
 98D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\sucrase\dist\esm\parser\traverser\lval.js133738162289730064 0
 132D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133738160238356661 0
-48D:\Moje dokumenty\Programowanie\dev\hydrapp\dist133785056692008512 1
+48D:\Moje dokumenty\Programowanie\dev\hydrapp\dist133785058149739476 1
 54D:\Moje dokumenty\Programowanie\dev\hydrapp\.postcssrc133738167775677765 0
 80D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\workers\src\web133738160238660272 1
 90D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\core\src\public\Bundle.js133738160238448161 0
@@ -154,7 +154,7 @@
 104D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\sucrase\dist\types\identifyShadowedGlobals.d.ts133738162290421793 0
 83D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\msgpackr-extract\README.md133738160236710862 0
 92D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\type-fest\source\tsconfig-json.d.ts133738160238336644 0
-58D:\Moje dokumenty\Programowanie\dev\hydrapp\src\index.html133785056745707563 0
+58D:\Moje dokumenty\Programowanie\dev\hydrapp\src\index.html133785058148839224 0
 84D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\utils\src\stream.js133738160239349841 0
 106D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133738160237720008 0
 79D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\package-json-from-dist133738162288671003 1
@@ -7485,7 +7485,7 @@
 78D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\rust\index.js133738160236297061 0
 83D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\rust\index.js.flow133738160235934601 0
 77D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\rust\LICENSE133738160235821760 0
-67D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.61d3354a.css133785056691976513 0
+67D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.61d3354a.css133785058149719446 0
 106D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133738160242487741 0
 111D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\rust\parcel-node-bindings.linux-arm64-gnu.node133738160243486057 0
 95D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\runtime-service-worker\LICENSE133738160235751744 0
@@ -8002,7 +8002,7 @@
 95D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\test\Disposable.test.js133738160236348312 0
 97D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\test\ValueEmitter.test.js133738160237194819 0
 85D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\src\errors.js133738160236640880 0
-71D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.61d3354a.css.map133785056692008512 0
+71D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.61d3354a.css.map133785058149739476 0
 84D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\src\types.js133738160237033598 0
 89D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\lib\Disposable.js133738160235964612 0
 85D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\events\lib\errors.js133738160236499814 0
