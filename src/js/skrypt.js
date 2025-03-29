@@ -17,15 +17,15 @@ window.addEventListener("load", (event) => {
     if (navigator.onLine) {
         status = 'Online'
         console.log("Online");
+    } else{
+        number.innerHTML = localStorage.getItem(key);
+        console.log("Offline");
     }
 
 });
 
-if (status == 'Online'){
-glasNumber = localStorage.getItem(key);}
-else {
-    glasNumber = window.localStorage.getItem(key)
-}
+glasNumber = localStorage.getItem(key);
+
 
 console.log(glasNumber);
 
@@ -33,69 +33,46 @@ setInterval(() => {
     if (key !== new Date().toLocaleString().slice(0, 10)) {
         key = new Date().toLocaleString().slice(0, 10)
         glasNumber = 0
-        if (status == 'Online'){
-        localStorage.setItem(key, glasNumber)}
-        else{
-           window.localStorage.setItem(key, glasNumber)
-        }
+        localStorage.setItem(key, glasNumber)
     }
 }, 60000);
 
 if (glasNumber === null) {
     glasNumber = 0;
     console.log(glasNumber);
-    if (status == 'Online'){
-    localStorage.setItem(key, glasNumber);}
-    {
-        window.localStorage.setItem(key, glasNumber);  
-    }
-
-
+    localStorage.setItem(key, glasNumber);
     number.innerHTML = 0;
 } else {
     glasNumber = parseInt(glasNumber);
     console.log(glasNumber);
-    if (status == 'Online'){
-    number.innerHTML = localStorage.getItem(key);}
-    else{
+
+    number.innerHTML = localStorage.getItem(key);
         number.innerHTML = window.localStorage.getItem(key);
-    }
+
 }
 
 adder.addEventListener('click', () => {
     glasNumber = glasNumber + 1;
-    if (status == 'Online'){
     localStorage.setItem(key, glasNumber)
     number.innerHTML = localStorage.getItem(key);
     console.log(localStorage.getItem(key));
     jsConfetti.addConfetti({
         emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
-    })}else{
-        window.localStorage.setItem(key, glasNumber)
-        number.innerHTML = window.localStorage.getItem(key);
-        console.log(window.localStorage.getItem(key));
-        jsConfetti.addConfetti({
-            emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
-        })    
-    }
+    })
 });
 
 subber.addEventListener('click', () => {
     if (glasNumber != 0) {
         glasNumber = glasNumber - 1;
-        if (status == 'Online'){
+
         localStorage.setItem(key, glasNumber)
-        number.innerHTML = localStorage.getItem(key);}
-        else{
+        number.innerHTML = localStorage.getItem(key);
+
             window.localStorage.setItem(key, glasNumber)
             number.innerHTML = window.localStorage.getItem(key);
-        }
+        
     }
-    if (status == 'Online'){
-    console.log(localStorage.getItem(key))}
-    else{
-        console.log(window.localStorage.getItem(key))
-    };
+    console.log(localStorage.getItem(key))
 });
 
 
