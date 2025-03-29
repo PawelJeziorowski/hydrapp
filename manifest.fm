@@ -1,9 +1,13 @@
 CACHE MANIFEST
-#Version 0.11
-
+#Version 0.12
+package-lock.json
+package.json
+tailwind.config.js
+.postcssrc
 /src/index.html
 /src/index.css
 /src/js/skrypt.js
+/src/manifest.json
 /src/images/icon-72x72.jpg
 /src/images/icon-96x96.jpg
 /src/images/icon-128x128.jpg
