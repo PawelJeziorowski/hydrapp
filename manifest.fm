@@ -3,10 +3,6 @@ CACHE MANIFEST
 
 index.html
 index.css
-tailwind.config.js
-package.json
-package-lock.json
-manifest.json
 /js/skrypt.js
 /images/icon-72x72.jpg
 /images/icon-96x96.jpg
