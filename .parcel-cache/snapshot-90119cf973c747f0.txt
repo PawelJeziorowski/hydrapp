@@ -1,5 +1,5 @@
 8277
-59D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.html133877485373476771 0
+59D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.html133877490656486521 0
 90D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\minipass\dist\commonjs\index.d.ts133738162288831012 0
 79D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\css-tree\cjs\generator133738160239953333 1
 103D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133738160236155970 0
@@ -45,10 +45,10 @@
 81D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\abortcontroller-polyfill133738160237286143 1
 98D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\sucrase\dist\esm\parser\traverser\lval.js133738162289730064 0
 132D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133738160238356661 0
-48D:\Moje dokumenty\Programowanie\dev\hydrapp\dist133877485373476771 1
+48D:\Moje dokumenty\Programowanie\dev\hydrapp\dist133877490656501592 1
 105D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\caniuse-lite\data\features\keyboardevent-code.js133738160242417731 0
 111D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133738160236823595 0
-47D:\Moje dokumenty\Programowanie\dev\hydrapp\src133877484927621762 1
+47D:\Moje dokumenty\Programowanie\dev\hydrapp\src133877489555563357 1
 77D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\css-tree\lib\data.js133738160240560579 0
 87D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\htmlparser2\lib\FeedHandler.js133738160235924595 0
 56D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules133744132569093230 1
@@ -158,7 +158,7 @@
 104D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\sucrase\dist\types\identifyShadowedGlobals.d.ts133738162290421793 0
 83D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\msgpackr-extract\README.md133738160236710862 0
 92D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\type-fest\source\tsconfig-json.d.ts133738160238336644 0
-58D:\Moje dokumenty\Programowanie\dev\hydrapp\src\index.html133877485451075289 0
+58D:\Moje dokumenty\Programowanie\dev\hydrapp\src\index.html133877491212227374 0
 84D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\@parcel\utils\src\stream.js133738160239349841 0
 106D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133738160237720008 0
 79D:\Moje dokumenty\Programowanie\dev\hydrapp\node_modules\package-json-from-dist133738162288671003 1
@@ -8275,4 +8275,4 @@
 72D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\icon-96x96.646bf76e.png133877473136157164 0
 74D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\icon-192x192.209e2903.png133877473136157164 0
 70D:\Moje dokumenty\Programowanie\dev\hydrapp\dist\index.8ae4daf6.js.map133877482144830039 0
-59D:\Moje dokumenty\Programowanie\dev\hydrapp\src\manifest.fm133877485440702113 0
+55D:\Moje dokumenty\Programowanie\dev\hydrapp\manifest.fm133877491181063988 0
