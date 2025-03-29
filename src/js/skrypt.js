@@ -18,7 +18,7 @@ window.addEventListener("load", (event) => {
         status = 'Online'
         console.log("Online");
     } else{
-        number.innerHTML = localStorage.getItem(key);
+        number.innerHTML = "8";
         console.log("Offline");
     }
 
