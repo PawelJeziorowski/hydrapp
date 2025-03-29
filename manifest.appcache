@@ -1,5 +1,7 @@
 CACHE MANIFEST
+
 #Version 0.14
+
 package-lock.json
 package.json
 tailwind.config.js
