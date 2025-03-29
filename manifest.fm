@@ -1,14 +1,13 @@
 CACHE MANIFEST
-#Version 0.1
-
-index.html
-index.css
-/js/skrypt.js
-/images/icon-72x72.jpg
-/images/icon-96x96.jpg
-/images/icon-128x128.jpg
-/images/icon-144x144.jpg
-/images/icon-152x152.jpg
-/images/icon-192x192.jpg
-/images/icon-384x384.jpg
-/images/icon-512x512.jpg
+#Version 0.11
+/src/index.html
+/src/index.css
+/src//js/skrypt.js
+/src//images/icon-72x72.jpg
+/src//images/icon-96x96.jpg
+/src//images/icon-128x128.jpg
+/src//images/icon-144x144.jpg
+/src//images/icon-152x152.jpg
+/src//images/icon-192x192.jpg
+/src//images/icon-384x384.jpg
+/src//images/icon-512x512.jpg
